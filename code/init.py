@@ -11,6 +11,12 @@ __license__ = "GNU General Public License v3.0"
 def main():
     """ Main entry point of the app """
     print("Fuzzy Code.")
+    problem()
+
+
+def problem():
+    solution = '1 == 1 ' + '2 == 2'
+    print(solution)
 
 
 if __name__ == "__main__":
