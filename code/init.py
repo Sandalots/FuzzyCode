@@ -3,14 +3,14 @@
 Module Docstring
 """
 
-__author__ = "Your Name"
+__author__ = "Sandalots"
 __version__ = "0.1.0"
-__license__ = "MIT"
+__license__ = "GNU General Public License v3.0"
 
 
 def main():
     """ Main entry point of the app """
-    print("hello world")
+    print("Fuzzy Code.")
 
 
 if __name__ == "__main__":
