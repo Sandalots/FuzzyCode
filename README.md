@@ -1,2 +1,2 @@
 # FuzzyCode
-A stack ofFuzzy Code.
+A stack of Fuzzy Code.
