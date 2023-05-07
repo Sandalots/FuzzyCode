@@ -1,2 +1,2 @@
 # FuzzyCode
-A stack of Fuzzy Code.
+A stack of Fuzzy Code implemented in Python3.
